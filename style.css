@@ -292,4 +292,12 @@ html{
     display:none;
     background: rgba(0,0,0,0.4);
   }
+.copyright{
+    color:#fff;
+    padding-left: 400px;
+    height: 7vh;
+  }
+  .copyright i{
+    color:#fc8019;
+  }
   
